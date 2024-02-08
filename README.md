@@ -464,7 +464,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- + [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
+- [+] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
 
 - [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
